@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am Hassaan Tahir  👨🏻‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am **Hassaan Tahir** ...
 
 👨‍💻 &nbsp;I am a front-end developer working in React Js for almost 1.6 years.\
 💡 &nbsp;I like to explore new technologies, develop software solutions and love to work on web design development.\
@@ -35,7 +35,7 @@ Here are a few things I've picked up along my learning journey.
 || 
 [![Skype](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/xBIqoJF6HKGD) 
 || 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
  or give some ♥ on [mail](mailto:ht.developerr@gmail.com) .
 
