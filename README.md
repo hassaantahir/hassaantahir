@@ -50,5 +50,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 <div align="center">
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hassaantahir/hassaantahir)
+
 </div>
