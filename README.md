@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am **Hassaan Tahir** ...
 
-👨‍💻 &nbsp;I am a front-end developer working in React Js for almost 2.3 years.\
+👨‍💻 &nbsp;I am a front-end developer working in React Js for more than 2.3 years.\
 💡 &nbsp;I like to explore new technologies, develop software solutions and love to work on web design development.\
 🎓 &nbsp;I've a Master Degree in Computer Science from Islamia University of Bahawalpur.\
 🌱 &nbsp;I'm on track to become a Full Stack Developer. Currently learning Node Js.\
