@@ -3,7 +3,6 @@
 👨‍💻 &nbsp;I am a full stack developer working in React Js and Node Js for more than 03 years.\
 💡  &nbsp;I like to explore new technologies, develop software solutions and love to work on web design development.\
 🎓 &nbsp;I've a Master Degree in Computer Science from Islamia University of Bahawalpur.\
-🌱 &nbsp;I'm on track to become a Full Stack Developer. Currently learning Node Js.\
 ✍️ &nbsp;In my free time, I read about what's new in market and play Snooker.\
 💬 &nbsp;Feel free to reach out to me for any type of web design development OR font-end work in React Js.\
 ✉️ &nbsp;You can shoot me an email OR can invite me on slack at ht.developerr@gmail.com! I'll try to respond as soon as I can.
