@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am **Hassaan Tahir** ...
 
-👨‍💻 &nbsp;I am a full stack developer working in React Js and Node Js for more than 03 years.\
+👨‍💻 &nbsp;I am a full stack developer working in React JS, Node JS, and Django for more than 03 years.\
 💡  &nbsp;I like to explore new technologies, develop software solutions and love to work on web design development.\
 🎓 &nbsp;I've a Master Degree in Computer Science from Islamia University of Bahawalpur.\
 ✍️ &nbsp;In my free time, I read about what's new in market and play Snooker.\
-💬 &nbsp;Feel free to reach out to me for any type of web design development OR font-end work in React Js.\
+💬 &nbsp;Feel free to reach out to me for any type of web development task fontend, backend or full stack.\
 ✉️ &nbsp;You can shoot me an email OR can invite me on slack at ht.developerr@gmail.com! I'll try to respond as soon as I can.
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.hassaantahir.com/) for more details about me. I'm open to feedback and suggestions! -->
 
 ## ⚡ Tech Stack
 
